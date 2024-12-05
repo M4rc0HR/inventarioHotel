@@ -1,0 +1,6 @@
+com\inventarihotel\inventariohotel\InventarioHotelApplication.class
+com\inventarihotel\inventariohotel\repositories\ProductoRepository.class
+com\inventarihotel\inventariohotel\controllers\ProductoController.class
+com\inventarihotel\inventariohotel\domain\Producto.class
+com\inventarihotel\inventariohotel\services\ProductoServiceImp.class
+com\inventarihotel\inventariohotel\services\ProductoService.class
